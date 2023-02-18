@@ -1,3 +1,5 @@
+#biror bir so'zni ekranga chiqarish uchun biz print funksiyasidan foydalanamiz
+
 print("Hello world")
 
 print(
