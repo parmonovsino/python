@@ -1,3 +1,10 @@
 a = "Salom"
 print(a)
-#natija 
+
+b = "sarvar"
+print(a + b)
+
+print(a, "Sardor")
+
+ism = "Sarvar"
+print("assalomu alaykum", ism)
